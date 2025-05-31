@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Finance Tracker App
+
+A personal finance tracking application built with React.
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
